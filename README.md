@@ -1,2 +1,2 @@
 # Minesweeper
-A console application of basic Minesweeper game created in C++
+Basic Minesweeper game as a console application created in C++
